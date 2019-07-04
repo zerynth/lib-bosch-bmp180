@@ -1,0 +1,14 @@
+---
+description: Driver for BOSCH BMP180 I2C Digital Pressure and Temperature Sensor
+fullname: lib.bosch.bmp180
+info:
+    chip_manufacturer: BOSCH
+    chip_name: BMP180
+    name: Pressure and Temperature Sensor
+    type: Sensor
+keywords:
+- bosch
+- pressure
+- temperature
+title: BMP180 Digital Pressure and Temperature Sensor
+...
